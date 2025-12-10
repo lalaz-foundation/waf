@@ -1,0 +1,16 @@
+{
+    "name": "lalaz/waf",
+    "description": "Web Application Firewall with rate limiting, security headers, and CORS.",
+    "version": "1.0.0",
+    "provider": "Lalaz\\Waf\\WafServiceProvider",
+    "install": {
+        "config": {
+            "stub": "config/security.php",
+            "destination": "config/security.php",
+            "overwrite": false
+        }
+    },
+    "uninstall": {
+        "keep_config": true
+    }
+}
