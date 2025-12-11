@@ -31,7 +31,7 @@ use Lalaz\Waf\RateLimit\Contracts\RateLimitStoreInterface;
  * ```
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  * @link https://lalaz.dev
  */
 class RateLimiter

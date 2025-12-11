@@ -11,7 +11,7 @@ namespace Lalaz\Waf\RateLimit\Contracts;
  * Implementations must provide persistent storage that survives between requests.
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  * @link https://lalaz.dev
  */
 interface RateLimitStoreInterface

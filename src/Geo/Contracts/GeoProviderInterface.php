@@ -17,7 +17,7 @@ use Lalaz\Waf\Geo\GeoLocation;
  * - Custom providers
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  */
 interface GeoProviderInterface
 {

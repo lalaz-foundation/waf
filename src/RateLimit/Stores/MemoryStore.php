@@ -14,7 +14,7 @@ use Lalaz\Waf\RateLimit\Contracts\RateLimitStoreInterface;
  * NOT suitable for production use in multi-process environments.
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  * @link https://lalaz.dev
  */
 class MemoryStore implements RateLimitStoreInterface

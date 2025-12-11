@@ -13,7 +13,7 @@ use Lalaz\Waf\RateLimit\Contracts\RateLimitStoreInterface;
  * Works with Lalaz CacheManager or any cache implementing get/set/delete.
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  * @link https://lalaz.dev
  */
 class CacheStore implements RateLimitStoreInterface

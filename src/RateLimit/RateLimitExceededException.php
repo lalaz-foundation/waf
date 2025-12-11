@@ -11,7 +11,7 @@ namespace Lalaz\Waf\RateLimit;
  * Contains information about when the limit will reset.
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  * @link https://lalaz.dev
  */
 class RateLimitExceededException extends \Exception

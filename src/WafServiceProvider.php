@@ -19,7 +19,7 @@ use Lalaz\Waf\RateLimit\Stores\MemoryStore;
  * - Helmet Middleware (configured via config)
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  * @link https://lalaz.dev
  */
 final class WafServiceProvider extends ServiceProvider

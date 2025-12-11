@@ -8,7 +8,7 @@ namespace Lalaz\Waf\Geo;
  * Geographic location information for an IP address.
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  */
 final class GeoLocation
 {

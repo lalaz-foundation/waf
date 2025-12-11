@@ -45,7 +45,7 @@ use Lalaz\Web\Http\Contracts\ResponseInterface;
  * ```
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  * @link https://lalaz.dev
  */
 class IpFilterMiddleware implements MiddlewareInterface

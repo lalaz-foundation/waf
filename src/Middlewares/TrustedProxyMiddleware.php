@@ -28,7 +28,7 @@ use Lalaz\Web\Http\Contracts\ResponseInterface;
  * - Forwarded (RFC 7239)
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  * @link https://lalaz.dev
  */
 final class TrustedProxyMiddleware implements MiddlewareInterface

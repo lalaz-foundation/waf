@@ -24,7 +24,7 @@ use Lalaz\Waf\Geo\GeoLocation;
  * ```
  *
  * @package lalaz/waf
- * @author Lalaz Framework <hello@lalaz.dev>
+ * @author Lalaz Framework <hi@lalaz.dev>
  */
 class ArrayGeoProvider implements GeoProviderInterface
 {
